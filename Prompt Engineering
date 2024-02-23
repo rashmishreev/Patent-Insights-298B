@@ -4,7 +4,6 @@ Purpose: Generation of synthetic dataset for fine-tuning using RAG
 Platform: Perplexity AI
 Model: GPT-4
 
-Certainly! Here's an enhanced prompt for generating plagiarized and non-plagiarized content for the specified patent:
 
 Prompt:1
 

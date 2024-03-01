@@ -1,0 +1,316 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "TRSp-Xsm2BxSWryjJEHH8",
+      "type": "text",
+      "x": 76.79296875,
+      "y": 188.36328125,
+      "width": 382.899658203125,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 216581452,
+      "version": 443,
+      "versionNonce": 1798181580,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "i93iKMdtN2jqaCyOS3Hpe",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1709334778753,
+      "link": null,
+      "locked": false,
+      "text": "What's already done?\n\n1. QA dataset\n2. Few-shot finetuning of gpt-3.5 -API\n3. Streamlit UI for the above ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "What's already done?\n\n1. QA dataset\n2. Few-shot finetuning of gpt-3.5 -API\n3. Streamlit UI for the above ",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "b7OIDG3cEJUvz1Qnk0izX",
+      "type": "text",
+      "x": 783.91796875,
+      "y": 169.546875,
+      "width": 1016.6791381835938,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1999251956,
+      "version": 650,
+      "versionNonce": 1210797388,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "LUXREV8c7_uu0SlZmnXT_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1709334965788,
+      "link": null,
+      "locked": false,
+      "text": "What needs to be done?\n1. The new dataset with plag and non-plag patents\n2. Figure how to fine-tune using the new data (read the data from csv and finetune)\n3. How to upload patents as a doc and assess novelty using that? (Langchain - chat with your docs)\n4. Streamlit UI for the uploading docs and assessing novelty\n  ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 143,
+      "containerId": null,
+      "originalText": "What needs to be done?\n1. The new dataset with plag and non-plag patents\n2. Figure how to fine-tune using the new data (read the data from csv and finetune)\n3. How to upload patents as a doc and assess novelty using that? (Langchain - chat with your docs)\n4. Streamlit UI for the uploading docs and assessing novelty\n  ",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "i93iKMdtN2jqaCyOS3Hpe",
+      "type": "arrow",
+      "x": 649.4261714459017,
+      "y": -45.57828725400722,
+      "width": 194.56311791248908,
+      "height": 224.67203725400722,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 355383756,
+      "version": 1433,
+      "versionNonce": 803659764,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709335225585,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -194.56311791248908,
+          224.67203725400722
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "a6b3to9L-oEl9utJv0mVv",
+        "focus": 0.6499524378350344,
+        "gap": 8.7109375
+      },
+      "endBinding": {
+        "elementId": "TRSp-Xsm2BxSWryjJEHH8",
+        "focus": 0.5068482052942946,
+        "gap": 9.26953125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "LUXREV8c7_uu0SlZmnXT_",
+      "type": "arrow",
+      "x": 862.5447308062078,
+      "y": -52.72527660255266,
+      "width": 338.3806970514163,
+      "height": 215.46355785255267,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1317896012,
+      "version": 1613,
+      "versionNonce": 41841396,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709335225585,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          338.3806970514163,
+          215.46355785255267
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "a6b3to9L-oEl9utJv0mVv",
+        "focus": -0.5205679874330894,
+        "gap": 10.386886596679688
+      },
+      "endBinding": {
+        "elementId": "b7OIDG3cEJUvz1Qnk0izX",
+        "focus": 0.059327503288001154,
+        "gap": 6.80859375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "a6b3to9L-oEl9utJv0mVv",
+      "type": "text",
+      "x": 655.9579388140203,
+      "y": -111.34165841832487,
+      "width": 274.679931640625,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#a18072",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "uGVtLCO5NmZMBqvgjaukj"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1539579764,
+      "version": 365,
+      "versionNonce": 1003961676,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "i93iKMdtN2jqaCyOS3Hpe",
+          "type": "arrow"
+        },
+        {
+          "id": "dWdAREfewrv_f_jYctnHj",
+          "type": "arrow"
+        },
+        {
+          "id": "LUXREV8c7_uu0SlZmnXT_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1709335229902,
+      "link": null,
+      "locked": false,
+      "text": "THE BIG PICTURE\n",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 60,
+      "containerId": null,
+      "originalText": "THE BIG PICTURE\n",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "wj9JYN88zanvLc1UVIjQP",
+      "type": "rectangle",
+      "x": 637.4226703231523,
+      "y": -127.42656319241914,
+      "width": 300.4022019476068,
+      "height": 68.33952238134401,
+      "angle": 0,
+      "strokeColor": "#a18072",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "uGVtLCO5NmZMBqvgjaukj"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2085936460,
+      "version": 254,
+      "versionNonce": 372090868,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1709335235369,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "v3ldr-EnwDoOoBd29srxL",
+      "type": "text",
+      "x": -137.46124818957412,
+      "y": 499.8286009240626,
+      "width": 915.9075927734375,
+      "height": 210,
+      "angle": 0,
+      "strokeColor": "#e64980",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2077613556,
+      "version": 448,
+      "versionNonce": 1842618612,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709335240895,
+      "link": null,
+      "locked": false,
+      "text": "My notes/understanding/thoughts/questions so far:\n* Finetuning is done using QA pairs like a chat conversation data.\n* Will that work for assessing novelty with document upload?\n* If not, how to fine-tune for that usecase?\n* API costs for that?\n",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 200,
+      "containerId": null,
+      "originalText": "My notes/understanding/thoughts/questions so far:\n* Finetuning is done using QA pairs like a chat conversation data.\n* Will that work for assessing novelty with document upload?\n* If not, how to fine-tune for that usecase?\n* API costs for that?\n",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#fffce8"
+  },
+  "files": {}
+}
